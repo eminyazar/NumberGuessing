@@ -8,3 +8,13 @@ C:\Users\testt\Desktop\NumberGuessing\obj\Debug\NumberGuessing.csproj.CoreCompil
 C:\Users\testt\Desktop\NumberGuessing\obj\Debug\NumberGuessing.exe
 C:\Users\testt\Desktop\NumberGuessing\obj\Debug\NumberGuessing.pdb
 C:\Users\testt\Desktop\NumberGuessing\obj\Debug\NumberGuessing.Form1.resources
+C:\Users\testt\Documents\GithubS\NumberGuessing\bin\Debug\NumberGuessing.exe.config
+C:\Users\testt\Documents\GithubS\NumberGuessing\bin\Debug\NumberGuessing.exe
+C:\Users\testt\Documents\GithubS\NumberGuessing\bin\Debug\NumberGuessing.pdb
+C:\Users\testt\Documents\GithubS\NumberGuessing\obj\Debug\NumberGuessing.csproj.AssemblyReference.cache
+C:\Users\testt\Documents\GithubS\NumberGuessing\obj\Debug\NumberGuessing.Form1.resources
+C:\Users\testt\Documents\GithubS\NumberGuessing\obj\Debug\NumberGuessing.Properties.Resources.resources
+C:\Users\testt\Documents\GithubS\NumberGuessing\obj\Debug\NumberGuessing.csproj.GenerateResource.cache
+C:\Users\testt\Documents\GithubS\NumberGuessing\obj\Debug\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\testt\Documents\GithubS\NumberGuessing\obj\Debug\NumberGuessing.exe
+C:\Users\testt\Documents\GithubS\NumberGuessing\obj\Debug\NumberGuessing.pdb
